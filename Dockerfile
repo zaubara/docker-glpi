@@ -23,6 +23,7 @@ php-mbstring \
 php-xml \
 php-apcu-bc \
 php-cas \
+php-zip \
 cron \
 wget \
 jq
